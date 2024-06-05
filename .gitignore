@@ -1,0 +1,7 @@
+dist/
+.idea/
+node_modules/
+infra/sql/meta
+functions
+# Local Netlify folder
+.netlify

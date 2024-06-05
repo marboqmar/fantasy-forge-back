@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "dist", /* Specify an output folder for all emitted files. */
+    "noEmit": false   /* Override setting in tsconfig.json */
+  },
+  "exclude": [
+    "src/**/*",
+    "eslint.config.js",
+    "vitest.config.ts",
+    "__tests__",
+    "config"
+  ]
+}
