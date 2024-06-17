@@ -8,6 +8,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img2: "/swords/blacksmiths-will.png",
     price: 205,
     description: "Esta es una espada maravillosa",
+    descriptionEn: "This is an awesome sword",
     origin: "Elden Ring",
   },
   {
@@ -17,6 +18,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img2: "/swords/cleanrot-knights-sword.png",
     price: 305,
     description: "Esta es una espada maravillosa",
+    descriptionEn: "This is an awesome sword",
     origin: "Dungeons & Dragons",
   },
   {
@@ -26,6 +28,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img2: "/swords/anduril.png",
     price: 405,
     description: "Esta es una espada maravillosa",
+    descriptionEn: "This is an awesome sword",
     origin: "Elden Ring",
   },
   {
@@ -35,6 +38,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img2: "/swords/wing-of-aester.png",
     price: 95,
     description: "Esta es una espada maravillosa",
+    descriptionEn: "This is an awesome sword",
     origin: "The Lord of the Rings",
   },
   {
@@ -44,6 +48,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img2: "/swords/cleanrot-knights-sword.png",
     price: 105,
     description: "Esta es una espada maravillosa",
+    descriptionEn: "This is an awesome sword",
     origin: "Elden Ring",
   },
   {
@@ -53,6 +58,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img2: "/swords/blacksmiths-will.png",
     price: 205,
     description: "Esta es una espada maravillosa",
+    descriptionEn: "This is an awesome sword",
     origin: "Elden Ring",
   },
   {
@@ -62,6 +68,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img2: "/swords/cleanrot-knights-sword.png",
     price: 305,
     description: "Esta es una espada maravillosa",
+    descriptionEn: "This is an awesome sword",
     origin: "Dungeons & Dragons",
   },
   {
@@ -71,6 +78,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img2: "/swords/anduril.png",
     price: 405,
     description: "Esta es una espada maravillosa",
+    descriptionEn: "This is an awesome sword",
     origin: "Elden Ring",
   },
   {
@@ -80,6 +88,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img2: "/swords/wing-of-aester.png",
     price: 95,
     description: "Esta es una espada maravillosa",
+    descriptionEn: "This is an awesome sword",
     origin: "The Lord of the Rings",
   },
   {
@@ -89,6 +98,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img2: "/swords/cleanrot-knights-sword.png",
     price: 105,
     description: "Esta es una espada maravillosa",
+    descriptionEn: "This is an awesome sword",
     origin: "Elden Ring",
   },
 ];
