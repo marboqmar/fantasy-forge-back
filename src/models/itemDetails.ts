@@ -1,6 +1,7 @@
 export interface ItemDetailsModel {
   key: number;
   name: string;
+  nameEn: string;
   img: string;
   img2: string;
   price: number;

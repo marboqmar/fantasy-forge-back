@@ -3,7 +3,8 @@ import { ItemDetailsModel } from "./models/index.js";
 const ITEM_LIST: ItemDetailsModel[] = [
   {
     key: 1,
-    name: `Cleanrot knights sword`,
+    name: "Espada del caballero imputrescible",
+    nameEn: "Cleanrot knights sword",
     img: "/swords/cleanrot-knights-sword.png",
     img2: "/swords/blacksmiths-will.png",
     price: 205,
@@ -13,17 +14,20 @@ const ITEM_LIST: ItemDetailsModel[] = [
   },
   {
     key: 2,
-    name: `Blacksmith’s Will`,
+    name: "La voluntad del herrero",
+    nameEn: `Blacksmith’s will`,
     img: "/swords/blacksmiths-will.png",
     img2: "/swords/cleanrot-knights-sword.png",
     price: 305,
     description: "Esta es una espada maravillosa",
-    descriptionEn: "This is an awesome sword",
+    descriptionEn:
+      "a magic silver longsword used by Greghor Kardh, a forge cleric",
     origin: "Dungeons & Dragons",
   },
   {
     key: 3,
-    name: `Wing of Aester`,
+    name: "Ala de Aestel",
+    nameEn: "Wing of Aestel",
     img: "/swords/wing-of-aester.png",
     img2: "/swords/anduril.png",
     price: 405,
@@ -33,7 +37,8 @@ const ITEM_LIST: ItemDetailsModel[] = [
   },
   {
     key: 4,
-    name: `Anduril`,
+    name: "Anduril",
+    nameEn: "Anduril",
     img: "/swords/anduril.png",
     img2: "/swords/wing-of-aester.png",
     price: 95,
@@ -43,7 +48,8 @@ const ITEM_LIST: ItemDetailsModel[] = [
   },
   {
     key: 5,
-    name: `Moonlight Greatsword`,
+    name: "Espadón de la luna negra",
+    nameEn: "Darkmoon greatsword",
     img: "/swords/moonlight-greatsword.png",
     img2: "/swords/cleanrot-knights-sword.png",
     price: 105,
@@ -53,7 +59,8 @@ const ITEM_LIST: ItemDetailsModel[] = [
   },
   {
     key: 6,
-    name: `Cleanrot knights sword 2`,
+    name: "Espada del caballero imputrescible 2",
+    nameEn: "Cleanrot knights sword 2",
     img: "/swords/cleanrot-knights-sword.png",
     img2: "/swords/blacksmiths-will.png",
     price: 205,
@@ -63,7 +70,8 @@ const ITEM_LIST: ItemDetailsModel[] = [
   },
   {
     key: 7,
-    name: `Blacksmith’s Will 2`,
+    name: "La voluntad del herrero 2",
+    nameEn: `Blacksmith’s will 2`,
     img: "/swords/blacksmiths-will.png",
     img2: "/swords/cleanrot-knights-sword.png",
     price: 305,
@@ -73,7 +81,8 @@ const ITEM_LIST: ItemDetailsModel[] = [
   },
   {
     key: 8,
-    name: `Wing of Aester 2`,
+    name: "Ala de Aestel 2",
+    nameEn: "Wing of Aestel 2",
     img: "/swords/wing-of-aester.png",
     img2: "/swords/anduril.png",
     price: 405,
@@ -83,7 +92,8 @@ const ITEM_LIST: ItemDetailsModel[] = [
   },
   {
     key: 9,
-    name: `Anduril 2`,
+    name: "Anduril 2",
+    nameEn: "Anduril 2",
     img: "/swords/anduril.png",
     img2: "/swords/wing-of-aester.png",
     price: 95,
@@ -93,7 +103,8 @@ const ITEM_LIST: ItemDetailsModel[] = [
   },
   {
     key: 10,
-    name: `Moonlight Greatsword 2`,
+    name: "Espadón de la luna negra 2",
+    nameEn: "Darkmoon greatsword 2",
     img: "/swords/moonlight-greatsword.png",
     img2: "/swords/cleanrot-knights-sword.png",
     price: 105,
