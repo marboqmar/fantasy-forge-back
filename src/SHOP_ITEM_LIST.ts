@@ -76,10 +76,14 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img: "/swords/moonlight-greatsword.png",
     img2: "/swords/cleanrot-knights-sword.png",
     price: 380,
-    description1: "Esta es una espada maravillosa",
-    description2: "Esta es una espada maravillosa",
-    descriptionEn1: "This is an awesome sword",
-    descriptionEn2: "This is an awesome sword",
+    description1:
+      "Un espadón lunar, otorgado por una reina Cariana a su esposo para honrar una tradición ancestral. El símbolo de Ranni es una luna llena, fría y plomiza, y esta espada no es más que un rayo de su luz. La hoja es ancha y elegantemente curvada, y emana un aura de poder antiguo y belleza etérea.",
+    description2:
+      "Sus intrincados patrones grabados en el metal son hipnotizantes, semejantes a enredaderas y hojas entrelazadas. Estos patrones no son meramente decorativos, palpitan con energía mágica, canalizando la fuerza vital del bosque en cada estocada. Los bordes de la hoja están afilados con una nitidez sobrenatural, capaces de cortar los materiales más duros con un susurro.",
+    descriptionEn1:
+      "A moon greatsword, bestowed by a Carian queen upon her spouse to honor long-standing tradition. Ranni's sigil is a full moon, cold and leaden, and this sword is but a beam of its light. The blade is wide and elegantly curved, and emanates an aura of ancient power and ethereal beauty.",
+    descriptionEn2:
+      "Its intricate patterns etched into the metal are mesmerizing, resembling vines and leaves intertwined. These patterns are not merely decorative, they pulse with magical energy, channeling the life force of the forest into every strike. The edges of the blade are honed to an otherworldly sharpness, capable of cutting through the toughest of materials with a whisper.",
     origin: "Elden Ring",
   },
   {
@@ -89,14 +93,10 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img: "/swords/cleanrot-knights-sword.png",
     img2: "/swords/blacksmiths-will.png",
     price: 205,
-    description1:
-      "Un espadón lunar, otorgado por una reina Cariana a su esposo para honrar una tradición ancestral. El símbolo de Ranni es una luna llena, fría y plomiza, y esta espada no es más que un rayo de su luz. La hoja es ancha y elegantemente curvada, y emana un aura de poder antiguo y belleza etérea.",
-    description2:
-      "Sus intrincados patrones grabados en el metal son hipnotizantes, semejantes a enredaderas y hojas entrelazadas. Estos patrones no son meramente decorativos, palpitan con energía mágica, canalizando la fuerza vital del bosque en cada estocada. Los bordes de la hoja están afilados con una nitidez sobrenatural, capaces de cortar los materiales más duros con un susurro.",
-    descriptionEn1:
-      "A moon greatsword, bestowed by a Carian queen upon her spouse to honor long-standing tradition. Ranni's sigil is a full moon, cold and leaden, and this sword is but a beam of its light. The blade is wide and elegantly curved, and emanates an aura of ancient power and ethereal beauty.",
-    descriptionEn2:
-      "Its intricate patterns etched into the metal are mesmerizing, resembling vines and leaves intertwined. These patterns are not merely decorative, they pulse with magical energy, channeling the life force of the forest into every strike. The edges of the blade are honed to an otherworldly sharpness, capable of cutting through the toughest of materials with a whisper.",
+    description1: "Esta es una espada maravillosa",
+    description2: "Esta es una espada maravillosa",
+    descriptionEn1: "This is an awesome sword",
+    descriptionEn2: "This is an awesome sword",
     origin: "Elden Ring",
   },
   {
