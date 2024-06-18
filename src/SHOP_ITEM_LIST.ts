@@ -6,7 +6,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     name: "Espada del caballero imputrescible",
     nameEn: "Cleanrot knights sword",
     img: "/swords/cleanrot-knights-sword.png",
-    img2: "/swords/blacksmiths-will.png",
+    img2: "/swords/cleanrot-knights-sword2.png",
     price: 250,
     description1:
       "Espada perforante de los caballeros imputrescibles que lucharon junto a Malenia, espada de Miquella. Esta espada es un testimonio del poder antiguo y la elegancia oscura. Su hoja es impecablemente recta, afinándose hasta una punta terriblemente afilada, diseñada para penetrar las defensas más formidables. La artesanía de la espada es inigualable, combinando arte con funcionalidad letal.",
@@ -23,7 +23,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     name: "La voluntad del herrero",
     nameEn: `Blacksmith’s will`,
     img: "/swords/blacksmiths-will.png",
-    img2: "/swords/cleanrot-knights-sword.png",
+    img2: "/swords/blacksmiths-will2.png",
     price: 450,
     description1:
       "Esta espada, conocida como La voluntad del herrero, es un arma de poder extraordinario y belleza hipnotizante, forjada en el corazón de un volcán dormido. La hoja es una maravilla, creada a partir de la esencia misma del fuego. Brilla con un intenso tono ardiente, como si lava fundida fluyera a través de su núcleo, irradiando calor y luz en un ritmo pulsante.",
@@ -40,7 +40,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     name: "Ala de Aestel",
     nameEn: "Wing of Aestel",
     img: "/swords/wing-of-aester.png",
-    img2: "/swords/anduril.png",
+    img2: "/swords/wing-of-aester2.png",
     price: 499,
     description1:
       "Esta espada es diferente a cualquier otra, una obra maestra nacida de los huesos de un ala frágil, el corazón de una estrella caída y una reliquia del Nacido del Vacío que se dice asaltó la Ciudad Eterna. Su hoja, iridiscente y brillante con un espectro de colores, parece casi líquida, fluyendo y cambiando como si estuviera viva.",
@@ -57,7 +57,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     name: "Andúril",
     nameEn: "Andúril",
     img: "/swords/anduril.png",
-    img2: "/swords/wing-of-aester.png",
+    img2: "/swords/anduril2.png",
     price: 160,
     description1:
       "Andúril, también conocida como la Llama del oeste, fue reforjada a partir de los fragmentos de Narsil, la espada de Elendil, en Rivendel. Fue entregada a Aragorn II Elessar, heredero de Isildur, por Elrond, Señor de Rivendel. La inscripción en la hoja dice “Nanye Andúril i ne Narsil i macil Elendilo. Lercuvanten i mali Mordoreo” que se traduce como “Soy Andúril, quien fue Narsil, la espada de Elendil. Que los esclavos de Mordor huyan de mí”.",
@@ -74,7 +74,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     name: "Espadón de la luna negra",
     nameEn: "Darkmoon greatsword",
     img: "/swords/moonlight-greatsword.png",
-    img2: "/swords/cleanrot-knights-sword.png",
+    img2: "/swords/moonlight-greatsword2.png",
     price: 380,
     description1:
       "Un espadón lunar, otorgado por una reina Cariana a su esposo para honrar una tradición ancestral. El símbolo de Ranni es una luna llena, fría y plomiza, y esta espada no es más que un rayo de su luz. La hoja es ancha y elegantemente curvada, y emana un aura de poder antiguo y belleza etérea.",
