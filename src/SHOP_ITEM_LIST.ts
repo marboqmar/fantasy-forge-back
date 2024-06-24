@@ -75,7 +75,7 @@ const ITEM_LIST: ItemDetailsModel[] = [
     nameEn: "Darkmoon greatsword",
     img: "/swords/moonlight-greatsword.png",
     img2: "/swords/moonlight-greatsword2.png",
-    price: 380,
+    price: 490,
     description1:
       "Un espadón lunar, otorgado por una reina cariana a su esposo para honrar una tradición ancestral. El símbolo de Ranni es una luna llena, fría y plomiza, y esta espada no es más que un rayo de su luz. La hoja es ancha y elegantemente curvada, y emana un aura de poder antiguo y belleza etérea.",
     description2:
@@ -93,10 +93,14 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img: "/swords/zireael.png",
     img2: "/swords/zireael2.png",
     price: 205,
-    description1: "Esta es una espada maravillosa",
-    description2: "Esta es una espada maravillosa",
-    descriptionEn1: "This is an awesome sword",
-    descriptionEn2: "This is an awesome sword",
+    description1:
+      "Zireael, que significa Golondrina en el idioma de los elfos Aen Seidhe, es el apodo de la espada de Ciri. Un gwyhyr (una espléndida espada gnómica, considerada la mejor del mundo) de 200 años, un tipo de hoja muy cara y preciosa que solo forjan los gnomos de Tir Tochair. La espada está hecha de hierro oscuro y la forma de la hoja se asemejaba a una llama, como es común en la tradición gnómica. En la hoja hay muchas decoraciones florales grabadas y una torre con una golondrina en la parte superior.",
+    description2:
+      "A finales de 1267, Esterhazy, un renombrado vendedor de espadas en la ciudad de Fano, se la regaló a Ciri cuando fue capturada por Leo Bonhart. Ciri fue entonces obligada por Bonhart a luchar con esta espada, bajo los efectos de Fisstech, en la arena de Claremont, propiedad de su primo Houvenaghel. Irónicamente, a principios del año siguiente, durante el asalto al Castillo de Stygga, Bonhart fue asesinado por Ciri con esta espada.",
+    descriptionEn1:
+      "Zireael, which means swallow in the language of the Aen Seidhe elves, is the nickname for Ciri's sword. A 200 year old gwyhyr (a splendid gnomish sword, regarded as the best in the world), very expensive and precious type of blade only forged by the gnomes of Tir Tochair, the sword is made with dark iron and the shape of the blade resembled a flame, as is common in gnomic tradition. On the blade there are many engraved floral decorations and a tower with a swallow on the top.",
+    descriptionEn2:
+      "In late 1267, Esterhazy, a very noted sword salesman in the town of Fano, gave it to Ciri as a gift, when she had been captured by Leo Bonhart. Ciri was then forced by Bonhart to fight with this sword, under the effects of Fisstech, in the Claremont arena owned by his cousin Houvenaghel. Ironically, early the following year during the assault at Stygga Castle, Bonhart was killed by Ciri with this sword.",
     origin: "The Witcher",
   },
   {
@@ -106,10 +110,14 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img: "/swords/wolven-steel-sword.png",
     img2: "/swords/wolven-steel-sword2.png",
     price: 185,
-    description1: "Esta es una espada maravillosa",
-    description2: "Esta es una espada maravillosa",
-    descriptionEn1: "This is an awesome sword",
-    descriptionEn2: "This is an awesome sword",
+    description1:
+      "La legendaria espada de acero del lobo es una hoja forjada con el acero más fino, y empleando las antiguas técnicas transmitidas a través de generaciones de maestros herreros. La hoja de la espada es larga y afilada, exudando un aura de elegancia y precisión mortal.",
+    description2:
+      "La empuñadura es una obra maestra en sí misma, envuelta en patrones intrincados que se asemejan al tejido de la piel de un lobo, proporcionando un agarre firme pero cómodo. La empuñadura está adornada con grabados detallados, que evocan la ferocidad y la gracia del lobo. En la base de la hoja, se pueden ver grabados delicados que fluyen sin interrupciones hacia el filo afilado del arma.",
+    descriptionEn1:
+      "The legendary Wolven steel sword, is a blade forged from the finest steel, its craftsmanship speaks volumes of the ancient techniques passed down through generations of master blacksmiths. The sword's blade is long and sharp, exuding an aura of both elegance and deadly precision.",
+    descriptionEn2:
+      "The hilt is a masterpiece in itself, wrapped in intricate patterns that resemble the weaving of a wolf's fur, providing a firm yet comfortable grip. The crossguard is adorned with detailed engravings, echoing the ferocity and grace of the wolf. At the base of the blade, one can see additional delicate engravings that flow seamlessly into the weapon's razor-sharp edge.",
     origin: "The Witcher",
   },
   {
@@ -119,10 +127,14 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img: "/swords/legolas-knives.png",
     img2: "/swords/legolas-knives2.png",
     price: 180,
-    description1: "Esta es una espada maravillosa",
-    description2: "Esta es una espada maravillosa",
-    descriptionEn1: "This is an awesome sword",
-    descriptionEn2: "This is an awesome sword",
+    description1:
+      "Estos cuchillos fueron forjados por herreros elfos y tomados por Legolas en algún momento de su juventud. Los usó durante sus días en el Bosque Negro y los perdió cuando luchó contra el orco de Gundabad, Bolg, durante la Batalla de los Cinco Ejércitos, cuando apuñaló a Bolg con un cuchillo en la mano y otro en la cabeza, matándolo. El cuerpo de Bolg cayó desde Ravenhill con los cuchillos.",
+    description2:
+      "La hoja, esbelta y elegantemente curvada, brilla con una luz de otro mundo, sugiriendo que ha sido imbuida con energías místicas. El metal es de una aleación élfica única, conocida solo por los herreros de los claros ocultos, lo que le otorga una nitidez y resistencia incomparables. Intrincados patrones de enredaderas serpentean a lo largo de la hoja, entrelazándose y enroscándose en una danza delicada, insinuando los orígenes encantados de la espada.",
+    descriptionEn1:
+      "These knives were forged by elven smiths and taken by Legolas sometime in his youth. He used them during his days in Mirkwood and lost them when he fought the Gundabad Orc Bolg during the Battle of Five Armies, when he stabbed one into the Orc's hand and the other into his head, killing him. Bolg's body fell from Ravenhill with the knives.",
+    descriptionEn2:
+      "The blade, slender and gracefully curved, shimmers with an otherworldly light, suggesting it has been imbued with mystical energies. The metal is of a unique elven alloy, known only to the smiths of the hidden glades, which gives it unparalleled sharpness and resilience. Intricate vine-like patterns wind their way along the length of the blade, intertwining and spiraling in a delicate dance, hinting at the sword's enchanted origins.",
     origin: "The Lord of the Rings",
   },
   {
@@ -132,10 +144,14 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img: "/swords/hadhafang.png",
     img2: "/swords/hadhafang2.png",
     price: 220,
-    description1: "Esta es una espada maravillosa",
-    description2: "Esta es una espada maravillosa",
-    descriptionEn1: "This is an awesome sword",
-    descriptionEn2: "This is an awesome sword",
+    description1:
+      'Elrond empuñó Hadhafang al final de la Segunda Edad, durante la guerra de la Última Alianza. Más tarde, su hija Arwen llevó Hadhafang cuando ayudó a Frodo a escapar de los Nazgûl. Inscrito en la hoja hay tengwar en (Neo-)Sindarin que dicen: "Aen estar Hadhafang i chathol hen, thand arod dan i thang an i arwen", que se traduce como "Esta hoja se llama Hadhafang, una noble defensa contra la multitud enemiga para una noble doncella".',
+    description2:
+      "La hoja exuda una belleza etérea y una gracia letal, encarnando la cúspide del arte élfico. Es esbelta y elegantemente curvada, y la aleación élfica utilizada en su creación es de una composición secreta, lo que le otorga a la hoja una nitidez y durabilidad incomparables.",
+    descriptionEn1:
+      'Elrond wielded Hadhafang at the end of the Second Age, during the war of the Last Alliance. Later, his daughter Arwen carried Hadhafang when she aided Frodo in his escape from the Ringwraiths. Inscribed on the blade are tengwar in (Neo-)Sindarin that say: "Aen estar Hadhafang i chathol hen, thand arod dan i thang an i arwen", which translates as "This blade is called Hadhafang, a noble defence against the enemy throng for a noble maiden".',
+    descriptionEn2:
+      "The blade exudes an ethereal beauty and a lethal grace, embodying the pinnacle of elven artistry. It is slender and elegantly curved and the elven alloy used in its creation is of a secret composition, giving the blade unmatched sharpness and durability.",
     origin: "The Lord of the Rings",
   },
   {
@@ -145,23 +161,31 @@ const ITEM_LIST: ItemDetailsModel[] = [
     img: "/swords/orcrist.png",
     img2: "/swords/orcrist2.png",
     price: 110,
-    description1: "Esta es una espada maravillosa",
-    description2: "Esta es una espada maravillosa",
-    descriptionEn1: "This is an awesome sword",
-    descriptionEn2: "This is an awesome sword",
+    description1:
+      'Durante la Primera Edad, Orcrist fue forjada junto con su "compañera", Glamdring, por herreros elfos. Tiene una hermosa vaina y una empuñadura adornada con joyas. Hay runas en la espada que llevan su nombre. A primera vista, Gandalf identificó la espada como una "buena hoja". Al igual que Glamdring y Dardo, Orcrist brilla siempre que los orcos están cerca.',
+    description2:
+      'Se perdió durante la Caída de Gondolin y fue descubierta junto con Glamdring siglos más tarde por Thorin, quien la usó para matar orcos en la Ciudad de los Trasgos después de matar al Gran Trasgo, pero la perdió cuando fue capturado por los Elfos del Bosque de Mirkwood y no le fue devuelta hasta después de la Batalla de los Cinco Ejércitos. Tras su muerte, Thranduil devolvió la espada y Orcrist fue colocada sobre la tumba de Thorin bajo la Montaña Solitaria, y "brillaba siempre en la oscuridad si se acercaban enemigos".',
+    descriptionEn1:
+      'During the First Age, Orcrist was forged alongside its "mate", Glamdring by Elf smiths. It has a beautiful scabbard and jeweled hilt. There are runes on the sword which bear its name. At first glance, Gandalf identified the sword as a "good blade". Like Glamdring and Sting, Orcrist glows whenever Orcs are near. ',
+    descriptionEn2:
+      'It was lost during the Fall of Gondolin and was discovered with Glamdring centuries later by Thorin, who used it to slay orcs in Goblin-town after the killing of the Great Goblin, but he lost it when he was captured by the Wood-elves of Mirkwood and was not returned to him until after the Battle of Five Armies. Upon his death, Thranduil returned the blade and Orcrist was placed upon Thorin\'s tomb under the Lonely Mountain, and it "gleamed ever in the dark if foes approached".',
     origin: "The Lord of the Rings",
   },
   {
     key: 11,
-    name: "Sting",
+    name: "Dardo",
     nameEn: "Sting",
     img: "/swords/sting.png",
     img2: "/swords/sting2.png",
     price: 125,
-    description1: "Esta es una espada maravillosa",
-    description2: "Esta es una espada maravillosa",
-    descriptionEn1: "This is an awesome sword",
-    descriptionEn2: "This is an awesome sword",
+    description1:
+      "Dardo es una antigua hoja élfica hecha por herreros de armas en Gondolin. Al igual que Glamdring y Orcrist, Dardo brilla con una luz fría si hay orcos cerca, pero solo Dardo tiene un brillo azul. Se perdió durante la Caída de Gondolin, y a finales de la Tercera Edad, pasó a estar en posesión de tres trolls que habitaban en el este de Eriador. Fue en su cueva donde Bilbo y sus compañeros enanos encontraron a Dardo junto con Glamdring y Orcrist.",
+    description2:
+      "Justo antes de que su sobrino emprendiera su misión a Mordor desde Rivendel, Bilbo le dio Dardo a Frodo. Gollum, que detestaba cualquier cosa hecha por los elfos, temía a Dardo. Este miedo ayudó a Bilbo cuando confrontó a Gollum en la cueva en la base de las Montañas Nubladas, y también ayudó a Frodo y Sam a someter a Gollum décadas después.",
+    descriptionEn1:
+      "Sting is an ancient elvish blade made by weapon-smiths in Gondolin. Like Glamdring and Orcrist, it shines with a cold light, if any orcs are near, but only Sting glows blue. It was lost during the Fall of Gondolin, and by the late Third Age, it came into the possession of three trolls dwelling in eastern Eriador. It was in their cave that Bilbo and his Dwarven companions found Sting alongside Glamdring and Orcrist.",
+    descriptionEn2:
+      "Just before his nephew embarked on his quest to Mordor from Rivendell, Bilbo gave Sting to Frodo. Gollum, who disliked anything made by the Elves, was afraid of Sting. This fear aided Bilbo when he confronted Gollum in the cave at the base of the Misty Mountains, and also helped Frodo and Sam subdue Gollum decades later.\n",
     origin: "The Lord of the Rings",
   },
   {
@@ -170,11 +194,15 @@ const ITEM_LIST: ItemDetailsModel[] = [
     nameEn: "Stormwind sword",
     img: "/swords/stormwind-sword.png",
     img2: "/swords/stormwind-sword2.png",
-    price: 105,
-    description1: "Esta es una espada maravillosa",
-    description2: "Esta es una espada maravillosa",
-    descriptionEn1: "This is an awesome sword",
-    descriptionEn2: "This is an awesome sword",
+    price: 570,
+    description1:
+      "La espada Stormwind es una espada de inmensa grandeza y poder. Fue forjada por los mejores artesanos del mítico reino de Eldoria, y es un testamento de una artesanía y un encantamiento mágico incomparables. La hoja, larga y formidable, está grabada con intrincados patrones y está letalmente afilada.",
+    description2:
+      "La empuñadura es una obra maestra de arte y diseño, envuelta en lujoso cuero azul oscuro, cruzado con hilos dorados que proporcionan un agarre firme y regio. La guarda es una elaborada exhibición de filigrana dorada, con la forma del majestuoso rostro de un león, con ojos incrustados de brillantes rubíes que parecen brillar con vida propia. Este motivo de león simboliza la fuerza, el coraje y el espíritu indomable del portador de la espada.",
+    descriptionEn1:
+      "The Stormwind sword is a sword of immense grandeur and power. It was crafted by the finest artisans in the mythical kingdom of Eldoria, is a testament to unparalleled craftsmanship and magical enchantment. The blade, long and formidable, is etched with intricate patterns, and is lethally sharp.",
+    descriptionEn2:
+      "The hilt is a masterpiece of artistry and design, wrapped in luxurious, deep blue leather, crisscrossed with golden threads that provide a firm and regal grip. The crossguard is an elaborate display of golden filigree, shaped into the majestic visage of a lion, its eyes set with brilliant rubies that seem to glint with a life of their own. This lion motif symbolizes strength, courage, and the indomitable spirit of the blade's wielder.",
     origin: "World of Warcraft",
   },
 ];
